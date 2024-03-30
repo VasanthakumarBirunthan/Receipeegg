@@ -1,0 +1,37 @@
+#main{
+
+      background-color: #FFFFFF; /* Frame color */
+    width: 60%; /* Adjust the width as needed */
+    margin: 5% 25% 5% 25%; 
+    padding: 20px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow for a 3D effect */
+    border-radius: 15px; /* Optional: rounds the corners of the frame */
+}
+
+#img1{width: 100%;}
+
+body {
+    
+    font-family: Arial, sans-serif;
+    background-color:  #f8e5da; /* Color outside the frame */
+
+  }
+
+
+#h1{color: rgb(8, 8, 8); text-align: center; margin-bottom: 5px; margin-top: 5px;}
+
+#preparationtime{background-color: rgb(233, 191, 226); padding: 20px;}
+#prephead{color: rgb(174, 29, 231); text-align: center;
+     font-size: larger;
+
+
+
+
+
+    
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    #ingheading{font-size: larger; 
+        color: rgb(145, 83, 119);
+         text-align: center;
+        padding-top: 5px;}
