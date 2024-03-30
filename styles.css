@@ -1,11 +1,11 @@
 #main{
 
-      background-color: #FFFFFF; /* Frame color */
-    width: 60%; /* Adjust the width as needed */
+      background-color: #FFFFFF; 
+    width: 60%; 
     margin: 5% 25% 5% 25%; 
     padding: 20px; 
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow for a 3D effect */
-    border-radius: 15px; /* Optional: rounds the corners of the frame */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    border-radius: 15px; 
 }
 
 #img1{width: 100%;}
