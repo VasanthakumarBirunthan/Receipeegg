@@ -1,10 +1,11 @@
 #main{
 
-      background-color: #FFFFFF; 
+      background-color: #f5eef0; 
     width: 60%; 
     margin: 5% 25% 5% 25%; 
     padding: 20px; 
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding-top: 40px;
+    box-shadow: 0 0 10px rgba(110, 7, 7, 0.1); 
     border-radius: 15px; 
 }
 
@@ -13,7 +14,7 @@
 body {
     
     font-family: Arial, sans-serif;
-    background-color:  #f8e5da; /* Color outside the frame */
+    background-color:  #e9c0a8; /* Color outside the frame */
 
   }
 
